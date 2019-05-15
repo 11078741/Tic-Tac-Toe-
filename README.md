@@ -1,3 +1,3 @@
-# Blackjack
+# Tic Tac Toe
 
-Blackjack Game generated using python programming language
+Tic Tac Toe Game generated using python programming language
